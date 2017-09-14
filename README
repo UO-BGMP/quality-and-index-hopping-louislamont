@@ -1,1 +1,11 @@
 THIS IS THE FINAL ASSIGNMENT!
+
+barhopping.py is the script used to generate histograms for the first question
+
+qual1-4 and hist1-4 are the graphs for 1a.
+
+barhopping-q2 is the script used for the second question
+
+indextable.txt has the counts and percentages for each of the read pairs, as well as counts and percentages for read swapped, undetermined, and sequencing error reads
+
+also included is indexdists.txt, which was used to generate the heatmap for question 2c
